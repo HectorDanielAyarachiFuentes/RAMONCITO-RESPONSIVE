@@ -35,3 +35,6 @@ body main {
     background-color: #9A9EBC;
     height: 95px;
 }
+
+@media screen and (orientation:landscape) and (min-width:100%){
+}
